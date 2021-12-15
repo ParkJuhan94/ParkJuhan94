@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParkJuhan94
-- 👀 I’m interested in ... C++ / Game Dev
+- 👀 I’m interested in ... Dev with C++ / Java 
 - 🌱 I’m currently learning ... this and that..
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... +82-10-5115-2980
