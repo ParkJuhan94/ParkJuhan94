@@ -3,7 +3,7 @@ ParkJuhan94](http://mazassumnida.wtf/api/v2/generate_badge?boj={pjh9447})](https
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJuhan94)](https://github.com/ParkJuhan94/github-readme-stats)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJuhan94)](https://github.com/ParkJuhan94/github-readme-stats)
 
 
 <!---
