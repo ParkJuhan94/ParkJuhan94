@@ -4,8 +4,7 @@
 <div align="center">
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-  
-  ### <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1580290420/noticon/vdw0bnagetaq3ty93b8i.png" style="width:80px; height:80px;"/> 
+   
   ### 𝐋𝐢𝐟𝐞 𝐢𝐬 𝐚 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐬𝐢𝐯𝐞 𝐨𝐯𝐞𝐫𝐥𝐨𝐚𝐝
   
   ---
