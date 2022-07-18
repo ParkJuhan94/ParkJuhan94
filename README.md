@@ -12,7 +12,7 @@
   
   <a href="https://github.com/ParkJuhan94"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkJuhan94&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23DADADA&title=GitHub&edge_flat=false"/></a> <a href="https://solved.ac/pjh9447"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pjh9447"/></a>
   
-  <a href="https://giken.tistory.com/"><img align = "center" src="https://img.shields.io/badge/-Giken.CS-blue"/></a> 
+  <a href="https://giken.tistory.com/"><img align = "left" src="https://img.shields.io/badge/-Giken.CS-blue"/></a> 
 
   <br>
  
