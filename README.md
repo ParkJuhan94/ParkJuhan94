@@ -1,5 +1,5 @@
 [![Solved.ac
-ParkJuhan94](http://mazassumnida.wtf/api/v2/generate_badge?boj={pjh9446})](https://solved.ac/{pjh9447})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={pjh9446})](https://solved.ac/{pjh9447})
 
 <!---
 ParkJuhan94/ParkJuhan94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
