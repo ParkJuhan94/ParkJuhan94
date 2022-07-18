@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ParkJuhan94
-- 👀 I’m interested in ... Dev with C++ / Java
-- 🌱 I’m currently learning ... this and that..
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... +82-10-5115-2980
+[![Solved.ac
+ParkJuhan94](http://mazassumnida.wtf/api/v2/generate_badge?boj={pjh9446})](https://solved.ac/{pjh9447})
 
 <!---
 ParkJuhan94/ParkJuhan94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
