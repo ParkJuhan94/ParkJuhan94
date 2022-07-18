@@ -5,7 +5,9 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
-  ### <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583669900/noticon/soqa2h0wm4i5ddbzongc.svg"/> 𝐋𝐢𝐟𝐞 𝐢𝐬 𝐚 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐬𝐢𝐯𝐞 𝐨𝐯𝐞𝐫𝐥𝐨𝐚𝐝
+  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583669900/noticon/soqa2h0wm4i5ddbzongc.svg" 
+           style="width:100px; height:100px;"/> 
+  𝐋𝐢𝐟𝐞 𝐢𝐬 𝐚 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐬𝐢𝐯𝐞 𝐨𝐯𝐞𝐫𝐥𝐨𝐚𝐝
   
   ---
   
