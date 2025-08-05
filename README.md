@@ -1,13 +1,13 @@
-<div align="center">
+<div align="left">
 
   ### 🐵 Hello, I'm JuHan Park. 🐵
-  ### As a BackEnd Engineer, I deliver reliable and fast solutions. 
-  ### I'm constantly striving for better code. 👀
-  
-  ---
+  As a BackEnd Engineer, I deliver reliable and fast solutions. <br>
+  I'm constantly striving for better code. 👀
 
+  <br><br>
+  
   <a href="https://solved.ac/zoox2"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zoox2&timestamp={System.currentTimeMillis()}"/></a>    
-  <br>
+  
   <a href="https://giken.tistory.com/"><img src="https://img.shields.io/badge/-Blog-red"/></a> 
   
   <br>
