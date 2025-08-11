@@ -7,7 +7,8 @@
 ```
 
 ## Tech Blog.
-- https://giken.tistory.com/ <br>
+> 개발하면서 마주한 문제의 원인과 고민 끝에 선택한 해결책, 그리고 그 결과를 기록하고 있습니다.
+- https://giken.tistory.com <br>
 
 ## Experiences.
 - `프로그래머스 백엔드 데브코스` | 부트캠프 | 2023. 09 - 2024. 03
@@ -23,4 +24,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJuhan94&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 ## Problem Solving.
-<a href="https://solved.ac/zoox2"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zoox2&timestamp={System.currentTimeMillis()}"/></a><br>
+> 다양한 알고리즘 문제 풀이를 통해 시간·공간 복잡도를 분석하고 최적화된 코드를 구현해왔습니다.
+- <a href="https://solved.ac/zoox2"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zoox2&timestamp={System.currentTimeMillis()}"/></a><br>
+- BOJ 360+ 문제, Programmers 210+ 문제 해결
+- https://github.com/ParkJuhan94/Auto-Commited-PS
