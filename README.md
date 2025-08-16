@@ -16,7 +16,7 @@
 - `삼성SDS 대학생 알고리즘 특강` | 교육 수료 | 2022. 07
 
 ## Tech Stacks.
-- Spring Boot, MySQL, Redis
+- Java, Spring Boot, MySQL, Redis
 - Kafka, Elastic Search
 - Docker, AWS 
 
