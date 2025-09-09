@@ -26,6 +26,12 @@
 ## Problem Solving.
 > 대용량 데이터가 주어지는 문제 상황에서, 최적의 시간 · 공간 복잡도를 갖춘 로직을 코드로 구현할 수 있습니다. <br>
 > 다양한 엣지 케이스와 조건을 충족하는 정교한 로직을 설계하는 것을 잘합니다.
+
+<br>
+
 - <a href="https://solved.ac/zoox2"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zoox2&timestamp={System.currentTimeMillis()}"/></a><br>
-- BOJ 360+ 문제, Programmers 210+ 문제 해결
-- https://github.com/ParkJuhan94/Auto-Commited-PS
+- 고민 끝에 풀어낸 해결한 문제들 👀
+  - `BOJ` 380+ 문제
+  - `Programmers` 220+ 문제
+  - https://github.com/ParkJuhan94/Auto-Commited-PS
+  - 25.09.10 updated.
