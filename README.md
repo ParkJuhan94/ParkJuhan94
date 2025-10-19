@@ -1,8 +1,6 @@
-<br>
-
 # Hello, 🐵 I'm JuHan Park.
-As a BackEnd Engineer, I deliver reliable and fast solutions.
-I'm constantly striving for better code. 👀
+As a BackEnd Engineer, I deliver reliable and fast solutions. <br>
+I'm constantly striving for better architecture. 🚀
 <br><br>
 
 ## Tech Blog.
