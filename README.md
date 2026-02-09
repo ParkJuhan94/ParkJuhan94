@@ -30,7 +30,7 @@ I'm constantly striving for better architecture. 🚀
 <br>
 
 - <a href="https://solved.ac/zoox2"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zoox2&timestamp={System.currentTimeMillis()}"/></a><br>
-- `BOJ` 380+ 문제
+- `BOJ` 400+ 문제
 - `Programmers` 220+ 문제
 - https://github.com/ParkJuhan94/Auto-Commited-PS
-- 25.09.10 updated.
+- 26.02.10 updated.
