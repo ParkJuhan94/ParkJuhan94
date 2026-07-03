@@ -1,7 +1,8 @@
-# Hi, I'm JuHan Park 👋
+## Hi, I'm JuHan Park 👋
 Backend Engineer building reliable, scalable systems with Java & Spring Boot.<br>
 Currently obsessed with real-time architecture — Kafka, Redis, and clean code. 🚀
-<br><br>
+ 
+<br>
 
 ## Tech Blog.
 > 개발하면서 마주한 문제의 원인과 고민 끝에 선택한 해결책, 그리고 그 결과를 기록하고 있습니다.
@@ -21,12 +22,10 @@ Currently obsessed with real-time architecture — Kafka, Redis, and clean code.
 <br>
 
 ## Problem Solving.
-> 대용량 데이터가 주어지는 문제 상황에서, 최적의 시간 · 공간 복잡도를 갖춘 로직을 코드로 구현할 수 있습니다. <br>
-> 다양한 엣지 케이스와 조건을 충족하도록 설계하는 것을 잘합니다.
+> 입력으로 대규모 데이터가 주어지는 문제 상황에서, 최적의 시간 · 공간 복잡도의 로직을 설계하여 코드로 구현할 수 있습니다. <br>
+> 다양한 엣지 케이스 · 조건을 충족하도록 설계하는 것을 잘합니다.
 <br>
 
 - <a href="https://solved.ac/zoox2"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zoox2&timestamp={System.currentTimeMillis()}"/></a><br>
-- `BOJ` 400+ 문제 해결
-- `Programmers` 220+ 문제 해결
+- `BOJ` 400+ 문제 해결, `Programmers` 220+ 문제 해결
 - https://github.com/ParkJuhan94/Auto-Commited-PS
-- 26.02.10 updated.
