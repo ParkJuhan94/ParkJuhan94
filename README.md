@@ -1,6 +1,6 @@
-# Hello, 🐵 I'm JuHan Park.
-As a BackEnd Engineer, I deliver reliable and fast solutions. <br>
-I'm constantly striving for better architecture. 🚀
+# Hi, I'm JuHan Park 👋
+Backend Engineer building reliable, scalable systems with Java & Spring Boot.<br>
+Currently obsessed with real-time architecture — Kafka, Redis, and clean code. 🚀
 <br><br>
 
 ## Tech Blog.
@@ -20,17 +20,13 @@ I'm constantly striving for better architecture. 🚀
 - Docker, AWS 
 <br>
 
-## Languages.
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJuhan94&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-<br>
-
 ## Problem Solving.
 > 대용량 데이터가 주어지는 문제 상황에서, 최적의 시간 · 공간 복잡도를 갖춘 로직을 코드로 구현할 수 있습니다. <br>
 > 다양한 엣지 케이스와 조건을 충족하도록 설계하는 것을 잘합니다.
 <br>
 
 - <a href="https://solved.ac/zoox2"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zoox2&timestamp={System.currentTimeMillis()}"/></a><br>
-- `BOJ` 400+ 문제
-- `Programmers` 220+ 문제
+- `BOJ` 400+ 문제 해결
+- `Programmers` 220+ 문제 해결
 - https://github.com/ParkJuhan94/Auto-Commited-PS
 - 26.02.10 updated.
