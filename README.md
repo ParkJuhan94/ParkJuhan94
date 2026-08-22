@@ -4,15 +4,9 @@ Currently obsessed with real-time architecture — Kafka, Redis, and clean code.
  
 <br>
 
-## Tech Blog.
-> 개발하면서 마주한 문제의 원인과 고민 끝에 선택한 해결책, 그리고 그 결과를 기록하고 있습니다.
-- https://giken.tistory.com
-<br>
-
 ## Tech Stacks.
-- Java, Spring Boot, MySQL, Redis
-- Kafka, Elastic Search
-- Docker, AWS 
+- Java, Spring Boot, JPA, QueryDSL, MySQL
+- Redis, Redisson, Kafka, Docker, AWS 
 <br>
 
 ## Problem Solving.
