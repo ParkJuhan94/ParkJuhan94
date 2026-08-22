@@ -9,12 +9,6 @@ Currently obsessed with real-time architecture — Kafka, Redis, and clean code.
 - https://giken.tistory.com
 <br>
 
-## Experiences.
-- [프로그래머스 백엔드 데브코스 5기](https://github.com/prgrms-be-devcourse) | 부트캠프 | 2023. 09 - 2024. 03
-- [커넥트웨이브 - 메이크샵 개발팀](https://www.wanted.co.kr/company/13957?airbridge_referrer=airbridge%3Dtrue%26channel%3Dgoogle.adwords%26campaign%3D22800318624%26campaign_id%3D22800318624%26ad_group%3D%26ad_group_id%3D%26ad_creative%3D%26ad_creative_id%3D%26term%3D%26sub_id%3Dx%26sub_id_1%3D%26sub_id_2%3D%26sub_id_3%3D%26click_id%3DCjwKCAjwuePGBhBZEiwAIGCVS8FgdkfQgh3PoBm3pOzOI1MWtELTUqrgidth_53Mkcct3cV6vJReehoCir0QAvD_BwE%26gclid%3DCjwKCAjwuePGBhBZEiwAIGCVS8FgdkfQgh3PoBm3pOzOI1MWtELTUqrgidth_53Mkcct3cV6vJReehoCir0QAvD_BwE%26ad_type%3Dclick&gad_source=1&gad_campaignid=22800320292&gbraid=0AAAAAC_c5SK3GR3TPlusRPSU2Aax9WiBw&gclid=CjwKCAjwuePGBhBZEiwAIGCVS8FgdkfQgh3PoBm3pOzOI1MWtELTUqrgidth_53Mkcct3cV6vJReehoCir0QAvD_BwE) | 인턴 | Full-Stack Developer | 2022. 09 - 2022. 12
-- `삼성SDS 대학생 알고리즘 특강` | 교육 수료 | 2022. 07
-<br>
-
 ## Tech Stacks.
 - Java, Spring Boot, MySQL, Redis
 - Kafka, Elastic Search
