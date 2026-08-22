@@ -1,7 +1,7 @@
 ## Hi, I'm JuHan Park 👋
-Backend Engineer building reliable, scalable systems with Java & Spring Boot.<br>
-Currently obsessed with real-time architecture — Kafka, Redis, and clean code. 🚀
- 
+`낮은 지연시간을 보장하고, 확장성 있으며, 안정적인 서버`를 구축하는 것에 <br>
+큰 관심이 있는 백엔드 엔지니어입니다. 🚀
+
 <br>
 
 ## Tech Stacks.
