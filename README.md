@@ -4,8 +4,8 @@
 
 트래픽 증가와 외부 의존성과 관련한 장애 상황에서도 <br> 
 흔들리지 않는 서버를 설계하고 운영하는 것을 목표로 합니다. 🚀
-<br><br>
 
+<br>
 
 ## Tech Stacks.
 - Java, Spring Boot, JPA, QueryDSL, MySQL
